@@ -1,4 +1,4 @@
-# Тестовое здание на проффесиию Java Developer в Kata
+# Тестовое здание на професcию Java Developer в Kata
 
 ## Иструкция по запуску программы Calculator
 
